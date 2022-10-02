@@ -3,6 +3,7 @@ Na minha pastelaria, existem funcionários que vendem os pastéis aos clientes.
 -------------------------------------
 
 User Stories:
+
 Eu como funcionário, gostaria que quando eu vendesse algum pastel, mostre que fui eu
 quem vendi, para que assim eu possa receber a cota de vendas.
 
