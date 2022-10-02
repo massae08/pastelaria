@@ -1,11 +1,14 @@
 # pastelaria
 Na minha pastelaria, existem funcionários que vendem os pastéis aos clientes.
+-------------------------------------
 
 User Stories:
 Eu como funcionário, gostaria que quando eu vendesse algum pastel, mostre que fui eu
 quem vendi, para que assim eu possa receber a cota de vendas.
+
 Eu como cliente, gostaria que o meu nome aparecesse quando eu comprasse algo, pois
 assim ficaria mais organizado.
+
 Eu como funcionário, gostaria que os pastéis fossem descritos com o seu recheio, para que
 assim eu possa manter o controle do estoque.
 
